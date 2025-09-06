@@ -1,6 +1,9 @@
 # Mission-Ecofinds
 # 🌍 EcoFinds – Sustainable Second-Hand Marketplace
 
+![Alt Text](./image.jpg)
+
+
 ## 📖 Project Overview
 **EcoFinds** is a sustainable second-hand marketplace designed to empower conscious consumption.  
 It provides an easy-to-use platform for buying and selling pre-owned goods, extending the lifecycle of products, reducing waste, and fostering a community-driven circular economy.  
