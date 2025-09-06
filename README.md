@@ -100,7 +100,4 @@ Through thoughtful design and essential features, EcoFinds seeks to **make susta
 - Core features implemented (Auth, Listings, Cart, Purchases, Dashboard)  
 - Demo-ready with seeded sample data  
 
----
 
-## 🌱 Tagline
-**“Echo Finds — Discover More, Waste Less.”**
