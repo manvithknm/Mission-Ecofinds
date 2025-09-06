@@ -1,7 +1,7 @@
 # Mission-Ecofinds
 # 🌍 EcoFinds – Sustainable Second-Hand Marketplace
 
-![Alt Text](./image.jpg)
+![Alt Text](./image (1).jpg)
 
 
 ## 📖 Project Overview
