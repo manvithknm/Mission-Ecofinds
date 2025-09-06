@@ -103,4 +103,4 @@ Through thoughtful design and essential features, EcoFinds seeks to **make susta
 ---
 
 ## 🌱 Tagline
-**“Echo Finds — Where Preloved Finds a New Voice.”**
+**“Echo Finds — Discover More, Waste Less.”**
